@@ -1,2 +1,2 @@
 # profile-review-mini-project
-profile review 
+profile review using html,css and javascript
